@@ -1,7 +1,7 @@
 # 제작자 : [KRU] LohaasLove
 
 ### 명단 대표 관리 기능
-![create](./image/create.PNG)
+![create](./image/created.PNG)
 
 ![join](./image/join.PNG)
 
